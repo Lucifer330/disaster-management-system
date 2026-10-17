@@ -1,0 +1,11 @@
+{
+  "title": "Disaster Management System",
+  "description": "Connects citizens, authorities, NGOs, and volunteers for efficient disaster response, offering real-time reporting, resource allocation, and emergency analytics.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

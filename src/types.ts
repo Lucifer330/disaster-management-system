@@ -1,0 +1,12 @@
+export type Screen =
+  | 'landing'
+  | 'login'
+  | 'citizen'
+  | 'report'
+  | 'ai-analysis'
+  | 'authority'
+  | 'incident'
+  | 'ngo'
+  | 'volunteer'
+  | 'offline'
+  | 'analytics'
